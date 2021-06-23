@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "co1dtype의 TIL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "백찬형"
 description              : "An amazing website."
 url                      : "https://co1dtype.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
