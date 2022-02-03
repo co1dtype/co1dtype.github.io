@@ -1,3 +1,22 @@
+---
+title:  "test 1"
+excerpt: "test 1"
+
+categories:
+  - Blog
+tags:
+  - [Blog, TIL, 알고리즘]
+
+use_math: true
+ 
+date: 2022-02-03
+last_modified_at: 2022-02-03
+
+
+---
+
+
+
 # John’s Gift 다국어
 
 > ![img](https://d2gd6pc034wcta.cloudfront.net/tier/18.svg) 
